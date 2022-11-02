@@ -7,6 +7,7 @@
 </head>
 <body>
         <h1><?php echo 'Hello, Mr. Raj Goyanka!'; ?></h1>
-     <h1><?php echo 'I am a student of SGSITS CSE !'; ?></h1>
+     <h1><?php echo 'I am a student of SGSITS CSE Indore Madhya Pradesh'></h1>
+   
 </body>
 </html>
